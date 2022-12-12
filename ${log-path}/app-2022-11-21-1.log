@@ -1,0 +1,9 @@
+21/Nov/2022 14:46:11,958- RepositoryConfigurationDelegate: Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+21/Nov/2022 14:46:12,011- RepositoryConfigurationDelegate: Finished Spring Data repository scanning in 40 ms. Found 2 JPA repository interfaces.
+21/Nov/2022 14:46:12,437- TomcatWebServer: Tomcat initialized with port(s): 8080 (http)
+21/Nov/2022 14:46:12,544- ServletWebServerApplicationContext: Root WebApplicationContext: initialization completed in 1029 ms
+21/Nov/2022 14:46:12,679- LogHelper: HHH000204: Processing PersistenceUnitInfo [name: default]
+21/Nov/2022 14:46:12,732- Version: HHH000412: Hibernate ORM core version 5.6.12.Final
+21/Nov/2022 14:46:12,868- Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21/Nov/2022 14:46:13,119- Dialect: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+21/Nov/2022 14:46:13,703- JtaPlatformInitiator: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

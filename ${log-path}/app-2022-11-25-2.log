@@ -1,0 +1,8 @@
+25/Nov/2022 12:53:37,255- TomcatWebServer: Tomcat started on port(s): 8080 (http) with context path '/flipkart'
+25/Nov/2022 12:53:37,269- FlipkartApplication: Started FlipkartApplication in 3.456 seconds (JVM running for 4.398)
+25/Nov/2022 12:53:59,126- DispatcherServlet: Initializing Servlet 'dispatcherServlet'
+25/Nov/2022 12:53:59,127- DispatcherServlet: Completed initialization in 0 ms
+25/Nov/2022 12:54:29,521- SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin: Application shutdown requested.
+25/Nov/2022 12:54:29,561- LocalContainerEntityManagerFactoryBean: Closing JPA EntityManagerFactory for persistence unit 'default'
+25/Nov/2022 13:22:26,129- FlipkartApplication: Starting FlipkartApplication using Java 17.0.3 on SSINGH2-L-2651 with PID 9796 (C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart\target\classes started by ssingh2 in C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart)
+25/Nov/2022 13:22:26,140- FlipkartApplication: No active profile set, falling back to 1 default profile: "default"

@@ -1,0 +1,8 @@
+21/Nov/2022 16:07:12,751- Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21/Nov/2022 16:07:13,029- Dialect: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+21/Nov/2022 16:07:13,647- JtaPlatformInitiator: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21/Nov/2022 16:07:13,655- LocalContainerEntityManagerFactoryBean: Initialized JPA EntityManagerFactory for persistence unit 'default'
+21/Nov/2022 16:07:13,950- JpaBaseConfiguration$JpaWebConfiguration: spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+21/Nov/2022 16:07:14,249- TomcatWebServer: Tomcat started on port(s): 8080 (http) with context path '/flipkart'
+21/Nov/2022 16:07:14,259- FlipkartApplication: Started FlipkartApplication in 3.347 seconds (JVM running for 4.331)
+21/Nov/2022 16:07:21,026- DispatcherServlet: Initializing Servlet 'dispatcherServlet'

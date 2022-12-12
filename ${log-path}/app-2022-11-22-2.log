@@ -1,0 +1,23 @@
+22/Nov/2022 20:11:54,609- LocalContainerEntityManagerFactoryBean: Closing JPA EntityManagerFactory for persistence unit 'default'
+22/Nov/2022 20:11:54,630- ConditionEvaluationReportLoggingListener: 
+
+Error starting ApplicationContext. To display the conditions report re-run your application with 'debug' enabled.
+22/Nov/2022 20:11:54,652- LoggingFailureAnalysisReporter: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.evoke.flipkart.controller.UserController required a bean of type 'com.evoke.flipkart.service.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.evoke.flipkart.service.UserService' in your configuration.
+
+22/Nov/2022 20:15:00,051- FlipkartApplication: Starting FlipkartApplication using Java 17.0.3 on SSINGH2-L-2651 with PID 13352 (C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart\target\classes started by ssingh2 in C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart)

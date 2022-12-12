@@ -1,0 +1,21 @@
+22/Nov/2022 20:15:02,613- LoggingFailureAnalysisReporter: 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Field userService in com.evoke.flipkart.controller.UserController required a bean of type 'com.evoke.flipkart.service.UserService' that could not be found.
+
+The injection point has the following annotations:
+	- @org.springframework.beans.factory.annotation.Autowired(required=true)
+
+
+Action:
+
+Consider defining a bean of type 'com.evoke.flipkart.service.UserService' in your configuration.
+
+22/Nov/2022 20:24:30,204- FlipkartApplication: Starting FlipkartApplication using Java 17.0.3 on SSINGH2-L-2651 with PID 15308 (C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart\target\classes started by ssingh2 in C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart)
+22/Nov/2022 20:24:30,214- FlipkartApplication: No active profile set, falling back to 1 default profile: "default"
+22/Nov/2022 20:24:30,693- RepositoryConfigurationDelegate: Bootstrapping Spring Data JPA repositories in DEFAULT mode.

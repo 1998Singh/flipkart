@@ -1,0 +1,10 @@
+21/Nov/2022 15:06:39,492- FlipkartApplication: No active profile set, falling back to 1 default profile: "default"
+21/Nov/2022 15:06:40,008- RepositoryConfigurationDelegate: Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+21/Nov/2022 15:06:40,062- RepositoryConfigurationDelegate: Finished Spring Data repository scanning in 42 ms. Found 2 JPA repository interfaces.
+21/Nov/2022 15:06:40,517- TomcatWebServer: Tomcat initialized with port(s): 8080 (http)
+21/Nov/2022 15:06:40,644- ServletWebServerApplicationContext: Root WebApplicationContext: initialization completed in 1104 ms
+21/Nov/2022 15:06:40,783- LogHelper: HHH000204: Processing PersistenceUnitInfo [name: default]
+21/Nov/2022 15:06:40,832- Version: HHH000412: Hibernate ORM core version 5.6.12.Final
+21/Nov/2022 15:06:40,979- Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21/Nov/2022 15:06:41,350- Dialect: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+21/Nov/2022 15:06:41,929- JtaPlatformInitiator: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]

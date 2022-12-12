@@ -1,0 +1,5 @@
+22/Nov/2022 20:11:53,495- Version: HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+22/Nov/2022 20:11:53,748- Dialect: HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+22/Nov/2022 20:11:54,327- JtaPlatformInitiator: HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+22/Nov/2022 20:11:54,335- LocalContainerEntityManagerFactoryBean: Initialized JPA EntityManagerFactory for persistence unit 'default'
+22/Nov/2022 20:11:54,606- AnnotationConfigServletWebServerApplicationContext: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'userController': Unsatisfied dependency expressed through field 'userService'; nested exception is org.springframework.beans.factory.NoSuchBeanDefinitionException: No qualifying bean of type 'com.evoke.flipkart.service.UserService' available: expected at least 1 bean which qualifies as autowire candidate. Dependency annotations: {@org.springframework.beans.factory.annotation.Autowired(required=true)}

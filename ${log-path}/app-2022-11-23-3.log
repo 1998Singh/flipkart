@@ -1,0 +1,8 @@
+23/Nov/2022 16:54:47,469- FlipkartApplication: Starting FlipkartApplication using Java 17.0.3 on SSINGH2-L-2651 with PID 11412 (C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart\target\classes started by ssingh2 in C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart)
+23/Nov/2022 16:54:47,492- FlipkartApplication: No active profile set, falling back to 1 default profile: "default"
+23/Nov/2022 16:54:48,093- RepositoryConfigurationDelegate: Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+23/Nov/2022 16:54:48,182- RepositoryConfigurationDelegate: Finished Spring Data repository scanning in 72 ms. Found 3 JPA repository interfaces.
+23/Nov/2022 16:54:48,779- TomcatWebServer: Tomcat initialized with port(s): 8080 (http)
+23/Nov/2022 16:54:48,925- ServletWebServerApplicationContext: Root WebApplicationContext: initialization completed in 1379 ms
+23/Nov/2022 16:54:49,099- LogHelper: HHH000204: Processing PersistenceUnitInfo [name: default]
+23/Nov/2022 16:54:49,166- Version: HHH000412: Hibernate ORM core version 5.6.12.Final

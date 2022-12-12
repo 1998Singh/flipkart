@@ -1,0 +1,7 @@
+21/Nov/2022 14:46:13,711- LocalContainerEntityManagerFactoryBean: Initialized JPA EntityManagerFactory for persistence unit 'default'
+21/Nov/2022 14:46:13,997- JpaBaseConfiguration$JpaWebConfiguration: spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+21/Nov/2022 14:46:14,286- TomcatWebServer: Tomcat started on port(s): 8080 (http) with context path '/flipkart'
+21/Nov/2022 14:46:14,294- FlipkartApplication: Started FlipkartApplication in 3.146 seconds (JVM running for 4.08)
+21/Nov/2022 14:51:22,820- SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin: Application shutdown requested.
+21/Nov/2022 14:51:22,847- LocalContainerEntityManagerFactoryBean: Closing JPA EntityManagerFactory for persistence unit 'default'
+21/Nov/2022 15:06:39,482- FlipkartApplication: Starting FlipkartApplication using Java 17.0.3 on SSINGH2-L-2651 with PID 14504 (C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart\target\classes started by ssingh2 in C:\Users\ssingh\Documents\workspace-spring-tool-suite-4-4.15.1.RELEASE\Flipkart)

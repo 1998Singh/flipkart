@@ -1,0 +1,2 @@
+24/Nov/2022 11:25:34,003- SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin: Application shutdown requested.
+24/Nov/2022 11:25:34,091- LocalContainerEntityManagerFactoryBean: Closing JPA EntityManagerFactory for persistence unit 'default'
